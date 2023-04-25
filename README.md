@@ -1,6 +1,6 @@
 
 # Frontend Mentor - Four card feature section solution
-[Live site URL here](https://link-url-here.org)
+[Live site URL here](https://babar1532.github.io/four-card-feature-sec/)
 
 This is a solution to the [Four card feature section  challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -32,8 +32,8 @@ Users should be able to:
  
 ### Links
 
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-flexbox-and-bem-method-qVh5_cdoPg)
-- Live Site URL: [Live site URL here](https://lere22.github.io/nft-preview-card-component/)
+- Solution URL: [Solution URL here](https://github.com/BABAR1532/four-card-feature-sec)
+- Live Site URL: [Live site URL here](https://babar1532.github.io/four-card-feature-sec/)
 
 
 ## My process
